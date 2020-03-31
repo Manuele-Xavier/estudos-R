@@ -1,18 +1,18 @@
-# Para a criação de variaveis utilize <-
+# Para a criação de variáveis utilize <-
 # Para criação de funções utilize =
 a <- 10
 b <- 5
 
 c <- a+b
 
-#sobre escreve a variavel
+
 c <- 20
 
-#criação de variavel armazenando strings
+#criação de variável armazenando strings
 nome = "Manuele"
 
 #também pode ser criada assim
 10 -> d
 
-#Apagando variavel
-rm()
+#Apagando variável
+rm(c)
